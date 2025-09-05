@@ -1,6 +1,6 @@
 # 🎌 Animixplay - Open Source Anime Blog  
 
-Welcome to the **Open Source Anime Blog**, a community-driven project designed for anime fans who love sharing thoughts, reviews, and insights about Japanese animation. This repository provides the source code for a modern, lightweight, and customizable anime blog built with open web technologies.  
+Welcome to the **Animixplay Open Source Anime Blog**, a community-driven project designed for anime fans who love sharing thoughts, reviews, and insights about Japanese animation. This repository provides the source code for a modern, lightweight, and customizable anime blog built with open web technologies.  
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to the **Open Source Anime Blog**, a community-driven project designed f
 
 ## 🚀 Getting Started  
 
-Follow these steps to set up the blog locally:  
+Follow these steps to set up the Animixplay blog locally:  
 
 ```bash
 # Clone the repository
@@ -84,4 +84,4 @@ Special thanks to the anime community for inspiring this project. From classics 
 🌸 Final Note
 The Open Source Anime Blog is built by fans, for fans. If you love anime and open source, this is the perfect project to contribute to. Together, let’s create a space where anime lovers can share, learn, and grow as a community.
 
-Animixplay website: https://animixplay.fun/
+Animixplay website: <https://animixplay.fun>
