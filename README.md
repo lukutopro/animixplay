@@ -1,6 +1,7 @@
 # 🎌 Animixplay - Open Source Anime Blog  
 
 Welcome to the **Animixplay Open Source Anime Blog**, a community-driven project designed for anime fans who love sharing thoughts, reviews, and insights about Japanese animation. This repository provides the source code for a modern, lightweight, and customizable anime blog built with open web technologies.  
+Animixplay website: [https://animixplay.fun](https://animixplay.fun)
 
 ---
 
@@ -74,8 +75,6 @@ Publish guides for new fans
 Or simply improve the design
 
 …you are welcome to join. Our mission is to make anime blogging accessible, fun, and collaborative.
-
-Animixplay website: [https://animixplay.fun](https://animixplay.fun)
 
 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute the code with proper attribution.
