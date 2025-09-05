@@ -14,7 +14,8 @@ Animixplay website: [animixplay](https://animixplay.fun)
 - **Search & Navigation** – Built-in search and easy navigation across posts.  
 - **Comment Integration** – Support for third-party tools like Disqus or Giscus.  
 - **Dark/Light Mode** – Switch themes for a better reading experience.  
-- **Open Source** – Free to use, modify, and contribute.  
+- **Open Source** – Free to use, modify, and contribute.
+  blog: <https://blogs.sapo.pt/profile?blog=animixplayl>
 
 ---
 
@@ -75,6 +76,8 @@ Publish guides for new fans
 Or simply improve the design
 
 …you are welcome to join. Our mission is to make anime blogging accessible, fun, and collaborative.
+
+
 
 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute the code with proper attribution.
