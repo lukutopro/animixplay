@@ -75,6 +75,8 @@ Or simply improve the design
 
 …you are welcome to join. Our mission is to make anime blogging accessible, fun, and collaborative.
 
+Animixplay website: [https://animixplay.fun](https://animixplay.fun)
+
 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute the code with proper attribution.
 
@@ -83,5 +85,3 @@ Special thanks to the anime community for inspiring this project. From classics 
 
 🌸 Final Note
 The Open Source Anime Blog is built by fans, for fans. If you love anime and open source, this is the perfect project to contribute to. Together, let’s create a space where anime lovers can share, learn, and grow as a community.
-
-Animixplay website: <https://animixplay.fun>
